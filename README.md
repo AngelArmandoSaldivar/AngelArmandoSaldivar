@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelArmandoSaldivar
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning NodeJs and ReactJs
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate with Microsoft
 - 📫 How to reach me  5610249771
 
